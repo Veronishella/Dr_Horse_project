@@ -1,2 +1,2 @@
-# Dr_Horse_project
+# Dr.Horse project
 Seznam a vyhledávaní veterinárů, kovářů
