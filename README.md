@@ -1,5 +1,5 @@
 # Dr.Horse project 
-Seznam, vyhledávaní a přidávaní veterinárů, kovářů
+Konzolová aplikácia, vyhledávaní a přidávaní veterinárů, kovářů
 
 ## Version log 
 Alpha Verze 0.1
