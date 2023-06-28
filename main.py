@@ -7,7 +7,6 @@ veterinari_list.pripojit_databazu("zoznam.db")
 veterinari_list.nacitat_veterinarov()
 menu = Menu()
 
-
 menu.zobraz_menu()
 choice = int(input("Zadajte volbu: "))
 
